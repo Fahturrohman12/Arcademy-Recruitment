@@ -1,2 +1,2 @@
-# Arcademy-Recruitment
+# Arkademy-Recruitment
 Jawaban Soal
